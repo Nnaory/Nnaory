@@ -79,7 +79,7 @@ Currently, I'm building a solid foundation in Data Science while also exploring 
 Predicting player churn behavior using machine learning techniques, including data cleaning, exploratory analysis, feature engineering, model training, and evaluation.
 
 🔗 Repository:
-[RyannPy/gacha-game-churn-analysis](https://github.com/RyannPy/gacha-game-churn-analysis)
+[Nnaory/gacha-game-churn-analysis](https://github.com/Nnaory/gacha-game-churn-analysis)
 
 ---
 
@@ -88,7 +88,7 @@ Predicting player churn behavior using machine learning techniques, including da
 Machine learning project focused on predicting VIP player behavior and identifying high-value users based on gameplay patterns.
 
 🔗 Repository:
-[RyannPy/the-vip-path](https://github.com/RyannPy/the-vip-path)
+[Nnaory/the-vip-path](https://github.com/Nnaory/the-vip-path)
 
 ---
 
@@ -97,7 +97,7 @@ Machine learning project focused on predicting VIP player behavior and identifyi
 International football match prediction model to predict international tournaments.
 
 🔗 Repository:
-[RyannPy/international-football-preditcion](https://github.com/RyannPy/international-football-prediction)
+[Nnaory/international-football-preditcion](https://github.com/Nnaory/international-football-prediction)
 
 ---
 
@@ -108,7 +108,7 @@ International football match prediction model to predict international tournamen
 A personal blogging platform built with Next.js and Supabase.
 
 🔗 Repository:
-[RyannPy/nao-in](https://github.com/RyannPy/nao-in)
+[RyannPy/nao-in](https://github.com/Nnaory/nao-in)
 
 ---
 
@@ -117,7 +117,7 @@ A personal blogging platform built with Next.js and Supabase.
 An AI-powered desktop assistant capable of controlling applications through Telegram commands using Gemini-based natural language parsing.
 
 🔗 Repository:
-[RyannPy/ai-desktop-assistant](https://github.com/RyannPy/ai-desktop-assistant)
+[Nnaory/ai-desktop-assistant](https://github.com/Nnaory/ai-desktop-assistant)
 
 ---
 
@@ -126,15 +126,15 @@ An AI-powered desktop assistant capable of controlling applications through Tele
 A Python CLI application for playing and managing YouTube audio directly from the terminal.
 
 🔗 Repository:
-[RyannPy/TubeTunes](https://github.com/RyannPy/TubeTunes)
+[Nnaory/TubeTunes](https://github.com/Nnaory/TubeTunes)
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=RyannPy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RyannPy&layout=compact" />
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=Nnaory&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nnaory&layout=compact" />
 </p>
 
 ---
@@ -152,7 +152,7 @@ A Python CLI application for playing and managing YouTube audio directly from th
 
 ## Connect With Me
 
-* GitHub: [RyannPy](https://github.com/RyannPy)
+* GitHub: [Nnaory](https://github.com/Nnaory)
 * LinkedIn: [Ryan Bayu Aji Bagus Purnomo](https://www.linkedin.com/in/ryan-bayu-aji-bagus-purnomo-60317640a/)
 * Instagram: [@ryannnby_](https://www.instagram.com/ryannnby_)
 * Email: ryanbayu155@gmail.com
@@ -160,5 +160,5 @@ A Python CLI application for playing and managing YouTube audio directly from th
 ---
 
 <p align="center">
-  <i>"Keep moving forward. There are good things ahead worth working for." — 2026 </i>
+  <i>"Keep moving forward. There are good things ahead worth working for." Nao — 2026 </i>
 </p>
